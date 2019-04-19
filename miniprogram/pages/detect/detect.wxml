@@ -1,0 +1,9 @@
+<!--pages/detect/detect.wxml-->
+<view class="wrap">
+  <view class='container'>
+    <image src='{{imgurl}}'></image>
+    <text class='name'>鉴定结果：{{name}}</text>
+    <text class='score'>准确度：{{score}}</text>
+    <text class='description'>{{description}}</text>
+  </view>
+</view>

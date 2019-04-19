@@ -1,0 +1,35 @@
+.container {
+  background: #f6f6f6;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.about-banner {
+  margin-top: 50rpx;
+  width: 750rpx;
+}
+
+.intro {
+  color: rgb(75, 175, 206);
+  font-size: 30rpx;
+  font-weight: 600;
+  padding-top: 200rpx;
+}
+
+.intro2 {
+  font-size: 60rpx;
+  font-weight: bold;
+  color: rgb(3, 95, 72);
+  padding-top: 20rpx;
+  padding-bottom: 100rpx;
+  letter-spacing: 10rpx;
+}
+
+.made {
+  font-size: 30rpx;
+  font-weight: 600;
+  color: rgb(75, 175, 206);
+}

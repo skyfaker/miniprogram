@@ -1,0 +1,9 @@
+Page({
+  data:{
+    testData:{
+      name:"shao",
+      sex:"male",
+      imagePath:"/images/2.jpg"
+    },
+  }
+})

@@ -1,0 +1,18 @@
+<!--index.wxml-->
+<view class="container">
+  <!-- 图片轮换 -->
+  <swiper indicator-dots='true' indicator-color='#A6D5DA'
+  bindchange="swiperChange"  class='list' previous-margin="47rpx" next-margin="47rpx" autoplay interval='3000' circular>
+    <block wx:for="{{imageList}}" wx:key="{{index}}">
+      <swiper-item >
+        <image class=" itemImg {{currentIndex == index?'active':'inactive'}}" src='{{item.imagePath}}'></image>
+      </swiper-item>
+    </block>
+  </swiper>
+  <!-- 上传图片 -->
+  <view class="uploader">
+    <view class="uploader-text" bindtap="choose_animalpicture">
+      <view>识别图片</view>
+    </view>
+  </view>
+</view>
