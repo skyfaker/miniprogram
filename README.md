@@ -5,3 +5,4 @@
 ###### 服务器地址和接口已隐藏
 ![](https://github.com/skyfaker/miniprogram/tree/master/miniprogram/下载.png)
 ![](./miniprogram/下载.png)
+##### *******扫一看看看嘛
