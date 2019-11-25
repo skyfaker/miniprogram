@@ -4,6 +4,6 @@
 ##### api：百度人工智能云平台
 ###### 服务器地址和接口已隐藏
 
-![](https://github.com/skyfaker/miniprogram/tree/master/miniprogram/下载.png)
+![](https://github.com/skyfaker/miniprogram/blob/master/miniprogram/%E4%B8%8B%E8%BD%BD.png)
 
 ###### *******扫一下看看嘛*******
